@@ -59,7 +59,9 @@ File System APIs
 Multithreading
 GUI (Tkinter / PyQt)
 
-Demo
+## 📸 Demo
+
+[View GUI Screenshot](https://github.com/user-attachments/assets/637a899c-83f1-4131-9d85-a15333b5cca4)
 
 
 ##Future Improvements
