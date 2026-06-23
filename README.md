@@ -41,7 +41,11 @@ All detailed architecture explanations are available in the `/docs` folder.
 ├── run_foldersync.py # Main entry point
 ├── requirements.txt # Dependencies
 
+
 ---
+##Demo
+<img width="1545" height="757" alt="image" src="https://github.com/user-attachments/assets/6d9ad222-2e70-465b-9624-bc2a15b43454" />
+
 
 ## How to Run
 
@@ -59,9 +63,8 @@ File System APIs
 Multithreading
 GUI (Tkinter / PyQt)
 
-## 📸 Demo
 
-[View GUI Screenshot](https://github.com/user-attachments/assets/637a899c-83f1-4131-9d85-a15333b5cca4)
+
 
 
 ##Future Improvements
